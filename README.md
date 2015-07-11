@@ -1,0 +1,1 @@
+Based on Scotch.io tutorial https://scotch.io/tutorials/learn-meteor-js-from-scratch-build-a-polling-app
